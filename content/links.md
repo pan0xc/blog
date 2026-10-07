@@ -12,8 +12,14 @@ authors = [
 
 ## 书签
 
+Marijn
+: https://mastodon.social/@marijn/117291734731644878
+
 matklad
 : https://matklad.github.io/
 
 fast-time-of-day
 : https://www.benjoffe.com/fast-time-of-day
+
+自我关怀
+: https://self-compassion.org/
