@@ -8,9 +8,15 @@ authors = [
 ]
 +++
 
-## 友链
+## Friends
 
-## 书签
+一些有趣的灵魂，在此相遇。
+{{< friends >}}
+<!-- 请将友链的添加到 /data/friends.yaml 中 -->
+
+---
+
+## Bookmarks
 
 Marijn
 : https://mastodon.social/@marijn/117291734731644878
