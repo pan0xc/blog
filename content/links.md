@@ -1,7 +1,7 @@
 +++
 date = '2026-07-12T13:15:16+08:00'
 draft = false
-title = 'links'
+title = 'Links'
 description = "panic's blog"
 authors = [
   "Chen Pan",

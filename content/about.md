@@ -1,15 +1,21 @@
 +++
 date = '2026-05-02T16:20:25+08:00'
 draft = false
-title = 'Hello! / 你好！'
+title = 'About'
 description = "panic's blog"
 +++
 
-I am **Chen Pan (潘辰)**, a **programmer** and an **INFJ** who enjoys exploring ideas, building things, and living freely. You can find me on [Codeberg](https://codeberg.org/panc) / [GitHub](https://github.com/pan0xc), or send me an [email](mailto:pan0xc@foxmail.com).
+## 你好 / Hello
 
-In addition, I am a **FOSS** enthusiast and developer, contributing to **Forgejo**, **extension-manager**, and **Bazaar**.
+I am **Chen Pan (潘辰)**, a programmer and an **INFJ** who enjoys exploring ideas, building things, and living freely. You can find me on [Codeberg](https://codeberg.org/panc) and [GitHub](https://github.com/pan0xc), or reach me via [email](mailto:pan0xc@foxmail.com).
 
-China / 中国
+I am also a **FOSS enthusiast and developer**, contributing to the following projects:
+
+- [forgejo](https://codeberg.org/forgejo/forgejo)
+- [extension-manager](https://github.com/mjakeman/extension-manager)
+- [bazaar](https://gitlab.gnome.org/World/bazaar)
+
+中国 / China
 
 Glad to see you here / 很高兴在此遇见你 :-)
 
