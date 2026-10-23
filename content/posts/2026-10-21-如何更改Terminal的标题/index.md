@@ -17,13 +17,13 @@ authors = [
 添加菜单导航，终于可以使用鼠标快速切换页面，摆脱一级一级退出的痛苦；还有给当前选中的音乐添加了背景，同时背景还设置了圆角，这很现代
 好吧；最后还有右上角的通知，我相信这个功能对平铺式窗口管理器用户极为友好。
 
-![musicfox用户界面截图](./musicfox用户界面截图.png)
+![musicfox用户界面截图](./musicfox用户界面截图.avif)
 
 ---
 
 在使用的过程中我发现 musicfox 的媒体通知缺失图标，请看下图的左上角，不知道什么原因，fallback 到了默认的图标。
 
-![musicfox媒体通知截图](./musicfox媒体通知截图.png)
+![musicfox媒体通知截图](./musicfox媒体通知截图.avif)
 
 我排查各种原因，试过手动给他添加 `symbolic` 图标以及 `.desktop` 桌面文件，发现通通都没用。之后发 NixOS 群里求助群友，有一位群友
 提出 [mpris](https://specifications.freedesktop.org/mpris/latest/Media_Player.html) 好像可以更改上图中这个图标。我立马搜索并跳转
@@ -97,7 +97,7 @@ s "musicfox"
 
 好了，终于修好了！！！
 
-![musicfox通过busctl调试成功截图](./musicfox通过busctl调试成功截图.png)
+![musicfox通过busctl调试成功截图](./musicfox通过busctl调试成功截图.avif)
 
 ---
 
@@ -124,7 +124,7 @@ sleep 5
 ```
 
 看看效果，如预期一样，完美。现在只需要简单的编码这个功能就算完成了。
-![测试VT-OSC2协议](./测试VT-OSC2协议截图.png)
+![测试VT-OSC2协议](./测试VT-OSC2协议截图.avif)
 
 花点时间了解项目结构后，我大致知道在什么地方添加这个功能。因为这属于 `UI` 的逻辑，所以我很快定位到了 `internal/ui/player.go` 这里。
 过往的经验告诉我，肯定是在某个生命周期或者钩子函数内添加就好了，不出所料。
@@ -140,7 +140,7 @@ func (p *Player) PlaySong(song structs.Song, direction PlayDirection) {
 ```
 
 我还挺喜欢这个功能。代码似乎还有些简陋，不过功能总算完成了，期待维护者后续的审查和修改建议。
-![更改终端窗口标题截图](./更改终端窗口标题截图.png)
+![更改终端窗口标题截图](./更改终端窗口标题截图.avif)
 
 ## 写在最后
 
