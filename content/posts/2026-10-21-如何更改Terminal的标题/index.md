@@ -19,6 +19,8 @@ authors = [
 
 ![musicfox用户界面截图](./musicfox用户界面截图.png)
 
+---
+
 在使用的过程中我发现 musicfox 的媒体通知缺失图标，请看下图的左上角，不知道什么原因，fallback 到了默认的图标。
 
 ![musicfox媒体通知截图](./musicfox媒体通知截图.png)
@@ -96,6 +98,8 @@ s "musicfox"
 好了，终于修好了！！！
 
 ![musicfox通过busctl调试成功截图](./musicfox通过busctl调试成功截图.png)
+
+---
 
 ## 番外
 
