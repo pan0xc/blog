@@ -11,12 +11,13 @@ I am **Chen Pan (潘辰)**, a programmer and an **INFJ** who enjoys exploring id
 
 I am also a **FOSS enthusiast and developer**, contributing to the following projects:
 
-- [forgejo](https://codeberg.org/forgejo/forgejo)
-- [extension-manager](https://github.com/mjakeman/extension-manager)
 - [bazaar](https://gitlab.gnome.org/World/bazaar)
+- [extension-manager](https://github.com/mjakeman/extension-manager)
+- [forgejo](https://codeberg.org/forgejo/forgejo)
+- [soybean-admin](https://github.com/soybeanjs/soybean-admin)
 
 中国 / China
 
-Glad to see you here / 很高兴在此遇见你 :-)
+很高兴在此遇见你 / Glad to see you here {{< monospace text=":-)" >}}
 
 ---
