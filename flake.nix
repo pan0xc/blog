@@ -21,6 +21,7 @@
         nodejs
         pnpm
 
+        libavif
         just
         nixd
         nixfmt
