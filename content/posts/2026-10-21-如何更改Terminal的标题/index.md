@@ -1,7 +1,7 @@
 +++
 date = '2026-10-21T21:41:52+08:00'
 draft = false
-title = '如何更改Terminal的标题'
+title = '如何更改 Terminal 的标题'
 authors = [
   "Chen Pan",
 ]
