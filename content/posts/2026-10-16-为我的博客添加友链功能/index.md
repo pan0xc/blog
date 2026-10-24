@@ -1,7 +1,7 @@
 +++
 date = '2026-10-16T19:08:39+08:00'
 draft = false
-title = '为我的博客添加友链'
+title = '为我的博客添加友链功能'
 authors = [
   "Chen Pan",
 ]
