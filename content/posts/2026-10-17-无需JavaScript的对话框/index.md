@@ -84,7 +84,7 @@ authors = [
 
 看看效果，似乎还不错。
 
-![可折叠菜单的演示](Screencast.gif)
+{{< video src="./Screencast.webm" >}}
 
 有一处小细节（一点小巧思），不知道大家发现没有：菜单按钮和关闭按钮会根据菜单的打开状态交替显示。这里我利用了 CSS 的 `:has()` 选择器，
 检测 dialog 是否处于 `[open]` 状态，再切换两个按钮的 `visibility` 属性。
