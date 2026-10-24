@@ -1,7 +1,7 @@
 +++
 date = '2026-10-17T14:13:16+08:00'
 draft = false
-title = '无须JavaScript的对话框'
+title = '无需 JavaScript 的对话框'
 authors = [
   "Chen Pan",
 ]
