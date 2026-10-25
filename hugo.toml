@@ -1,6 +1,6 @@
 baseURL = 'https://panc.codeberg.page'
 locale = 'zh-CN'
-title = "Panic"
+title = "panic"
 theme = 'paper-lite'
 
 [params]
