@@ -5,6 +5,8 @@ title = 'About'
 description = "panic's blog"
 +++
 
+![Photo by Andreas Schmidt on Unsplash](./andreas-schmidt-7Oti6SEKoCo-unsplash.jpg "Photo by [Andreas Schmidt](https://unsplash.com/@as_capture?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/golden-wheat-stalk-in-green-field-7Oti6SEKoCo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)")
+
 ## 你好 / Hello
 
 I am **Chen Pan (潘辰)**, a programmer and an **INFJ** who enjoys exploring ideas, building things, and living freely. You can find me on [Codeberg](https://codeberg.org/panc) and [GitHub](https://github.com/pan0xc), or reach me via [email](mailto:pan0xc@foxmail.com).

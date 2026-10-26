@@ -8,6 +8,8 @@ authors = [
 ]
 +++
 
+![Photo by laura adai from Unsplash](./laura-adai-IafQGHZfcBI-unsplash.jpg "Photo by [laura adai](https://unsplash.com/@lauraadaiphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/snowy-forest-ridge-above-clouds-IafQGHZfcBI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)")
+
 ## Friends
 
 一些有趣的灵魂，在此相遇。
