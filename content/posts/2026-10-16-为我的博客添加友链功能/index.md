@@ -7,8 +7,6 @@ authors = [
 ]
 +++
 
-![laura-adai-IafQGHZfcBI-unsplash](./shutter-speed-uNBO5lSiI70-unsplash%20copy.jpg)
-
 我其实很早之前（大概是在完成 blogroll 功能后）就想为我的博客添加友链功能了，迟迟未做的原因是因为
 目前现有的 markdown 功能也能勉强展示（其实就是懒），不过它的缺点显而易见，那就是内容太单调，仅仅
 展示标题和链接是不够的，我需要它能够展示头像、名称以及个人描述，最好还能自己添加点 CSS 样式。
