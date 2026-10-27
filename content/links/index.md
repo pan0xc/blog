@@ -9,6 +9,7 @@ authors = [
 +++
 
 ![Photo by laura adai from Unsplash](./laura-adai-IafQGHZfcBI-unsplash.jpg "Photo by [laura adai](https://unsplash.com/@lauraadaiphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/snowy-forest-ridge-above-clouds-IafQGHZfcBI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)")
+{loading="eager" fetchpriority="high"}
 
 > 每当我遇到自己不敢直视的困难时，我就会闭上眼睛，想象自己是一个80岁的老人，为人生中曾放弃和逃避过的无数次困难而懊悔不已，
 > 我会对自己说，能再年轻一次该有多好。然后我睁开眼睛：砰，我又年轻了一次！

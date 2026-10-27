@@ -6,6 +6,7 @@ description = "panic's blog"
 +++
 
 ![Photo by Andreas Schmidt on Unsplash](./andreas-schmidt-7Oti6SEKoCo-unsplash.jpg "Photo by [Andreas Schmidt](https://unsplash.com/@as_capture?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/golden-wheat-stalk-in-green-field-7Oti6SEKoCo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)")
+{loading="eager" fetchpriority="high"}
 
 ## 你好 / Hello
 
