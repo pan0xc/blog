@@ -10,13 +10,17 @@ authors = [
 
 ![Photo by laura adai from Unsplash](./laura-adai-IafQGHZfcBI-unsplash.jpg "Photo by [laura adai](https://unsplash.com/@lauraadaiphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/snowy-forest-ridge-above-clouds-IafQGHZfcBI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)")
 
+> 每当我遇到自己不敢直视的困难时，我就会闭上眼睛，想象自己是一个80岁的老人，为人生中曾放弃和逃避过的无数次困难而懊悔不已，
+> 我会对自己说，能再年轻一次该有多好。然后我睁开眼睛：砰，我又年轻了一次！
+{caption="[你读过的最有力量的一段文字是什么？ · 央视新闻](https://mp.weixin.qq.com/s/7lec4JGgnTBeuYo1xFerJQ)" cite="https://mp.weixin.qq.com/s/7lec4JGgnTBeuYo1xFerJQ"}
+
+---
+
 ## Friends
 
 一些有趣的灵魂，在此相遇。
 {{< friends >}}
 <!-- 请将友链的添加到 /data/friends.yaml 中 -->
-
----
 
 ## Bookmarks
 

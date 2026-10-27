@@ -52,6 +52,7 @@ authors = [
 > The HTML below demonstrates how to apply the attributes to a `<button>` element so it can be pressed to open a modal
 > `<dialog>` with an `id` of `"my-dialog"`.
 > {lang="en"}
+{cite="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog#modal_dialogs_using_invoker_commands" caption="[modal_dialogs_using_invoker_commands · MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog#modal_dialogs_using_invoker_commands)"}
 
 确定了设计目标并查阅相关文档后，实现起来就容易多了。按照文档的说明，首先准备两个 `<button>` 元素和一个 `<dialog>` 元素，
 具体布局可以根据自己的需求决定。

@@ -55,12 +55,13 @@ s "librewolf"
 
 我无法确定问题到底所在，我之前已经创建了 `.desktop` 文件了啊。我正疑惑着，再次查看 mpris 规范，生怕露了某个属性没写。
 
->The basename of an installed .desktop file which complies with the Desktop entry specification, with the ".desktop" extension stripped.
->Example: The desktop entry file is "/usr/share/applications/vlc.desktop", and this property contains "vlc" 
+> The basename of an installed .desktop file which complies with the Desktop entry specification, with the ".desktop" extension stripped.
+> Example: The desktop entry file is "/usr/share/applications/vlc.desktop", and this property contains "vlc"
+> {lang="en"}
+{cite="https://specifications.freedesktop.org/mpris/latest/Media_Player.html#Property:DesktopEntry" caption="[Property:DesktopEntry · mpris](https://specifications.freedesktop.org/mpris/latest/Media_Player.html#Property:DesktopEntry)"}
 
-啊，原来是 [DesktopEntry](https://specifications.freedesktop.org/mpris-spec/latest/Media_Player.html#Property:DesktopEntry)
-属性没写，根据 DesktopEntry 的说明，DesktopEntry 与程序的 `.desktop` 文件对应，与桌面集成相关，并从中获取应用名称和图标提供给
-通知中心的媒体控制或是其他地方，我赶紧往 `internal/remote_control/remote_control_linux.go` 里面添加这个属性，就是下面的第7行代码。
+啊，原来是 DesktopEntry 属性没写，根据 DesktopEntry 的说明，DesktopEntry 与程序的 `.desktop` 文件对应，与桌面集成相关，并从中获取应用名称
+和图标提供给通知中心的媒体控制或是其他地方，我赶紧往 `internal/remote_control/remote_control_linux.go` 里面添加这个属性，就是下面的第7行代码。
 
 {{< highlight go "linenos=inline, hl_lines=7" >}}
 func (m *MediaPlayer2) properties() map[string]*prop.Prop {

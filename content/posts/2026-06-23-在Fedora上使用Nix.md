@@ -12,7 +12,7 @@ authors = [
 > Nix is a tool that takes a unique approach to package management and system configuration.
 > Learn how to make reproducible, declarative and reliable systems.
 > {lang="en"}
-{cite="https://nixos.org" caption="nixos.org"}
+{cite="https://nixos.org" caption="[nixos.org](nixos.org)"}
 
 [Nix](https://nixos.org/) 是一个在软件包管理和系统配置方面采用独特方法的工具。官方声称使用 Nix 可以构建可重复、可声明式且可靠的系统。
 
