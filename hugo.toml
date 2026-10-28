@@ -8,7 +8,7 @@ description = "panic's blog"
 [params.author]
 email = 'pan0xc@foxmail.com'
 name = 'Chen Pan'
-avatar = 'https://blog.chenpan.me/avatar.svg'
+avatar = 'https://blog.chenpan.me/avatar.avif'
 bio = '选择一个难到几乎无人看好的项目，带着那种“我偏要证明给他们看”的冲劲去完成。'
 github = "pan0xc"
 codeberg = "panc"
