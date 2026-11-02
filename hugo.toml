@@ -3,6 +3,17 @@ locale = 'zh-CN'
 title = "panic"
 theme = 'paper-lite'
 
+[module]
+[[module.mounts]]
+source = "site/data"
+target = "data"
+[[module.mounts]]
+source = "site/archetypes"
+target = "archetypes"
+[[module.mounts]]
+source = "site/static"
+target = "static"
+
 [params]
 description = "panic's blog"
 [params.author]
