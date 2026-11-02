@@ -40,7 +40,7 @@ authors = [
 
 ```html
 <ul class="grid grid-cols-1 gap-4 sm:grid-cols-2 list-none p-0">
-    {{ range site.Data.friends }}
+    {{ range hugo.Data.friends }}
     <li class="pl-0">
         <a href="{{ .url }}"
             class="group flex items-center gap-4 rounded-xl px-4 border border-gray-300/80 dark:border-gray-700/80 no-underline"
