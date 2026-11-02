@@ -29,7 +29,7 @@ marxists
 : https://www.marxists.org/
 
 Marijn
-: https://mastodon.social/@marijn/117291734731644878/
+: https://mastodon.social/@marijn/117291734731644878
 
 matklad
 : https://matklad.github.io/
@@ -41,7 +41,7 @@ fast-time-of-day
 : https://self-compassion.org/
 
 为什么建议使用 dvh
-: https://medium.com/@tharunbalaji110/understanding-mobile-viewport-units-a-complete-guide-to-svh-lvh-and-dvh-0c905d96e21a/
+: https://medium.com/@tharunbalaji110/understanding-mobile-viewport-units-a-complete-guide-to-svh-lvh-and-dvh-0c905d96e21a
 
 It's still OK to enjoy programming
-: https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming/
+: https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming
