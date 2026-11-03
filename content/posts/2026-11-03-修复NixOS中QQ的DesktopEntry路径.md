@@ -101,7 +101,7 @@ bin/
 
 ## 在 nixpkgs 中修复
 
-在知道 NixOS 的 QQ 打包存在这样的问题，我也很想知道 Arch Linux 那边如何，不过他们确实提供了修复：
+在知道 NixOS 的 QQ 打包存在这样的问题，我也很想知道 Arch Linux 那边如何，幸运的是他们确实提供了修复：
 
 ```sh
 # Launcher Fix
