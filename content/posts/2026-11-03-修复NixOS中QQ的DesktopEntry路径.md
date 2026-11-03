@@ -134,7 +134,7 @@ substituteInPlace $out/share/applications/qq.desktop \
 NIXPKGS_ALLOW_UNFREE=1 nix build --impure .#qq
 ```
 
-然后执行 `cat result/share/applications/qq.desktop` 检查生成的 Desktop Entry：
+然后检查 `qq.desktop` 中生成的 Desktop Entry：
 
 ```sh
 [Desktop Entry]
