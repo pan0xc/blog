@@ -101,6 +101,17 @@ bin/
 
 ## 在 nixpkgs 中修复
 
+在知道 NixOS 的 QQ 打包存在这样的问题，我也很想知道 Arch Linux 那边如何，不过他们确实提供了修复：
+
+```sh
+# Launcher Fix
+sed -i '3s!/opt/QQ/qq!linuxqq!' "${pkgdir}/usr/share/applications/qq.desktop"
+# Icon Fix
+sed -i '6s!/usr/share/icons/hicolor/512x512/apps/qq.png!qq!' "${pkgdir}/usr/share/applications/qq.desktop"
+```
+
+这很好，也可以给我提供修复的思路。
+
 对其中两个不适合 Nix 的字段进行替换：
 
 ```nix
