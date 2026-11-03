@@ -24,7 +24,7 @@ bio = '选择一个难到几乎无人看好的项目，带着那种“我偏要�
 github = "pan0xc"
 codeberg = "panc"
 [params.repo]
-url = "https://codeberg.org/panc/pages"
+url = "https://codeberg.org/panc/blog"
 branch = "main"
 editPath = "_edit"  # codeberg is _edit, github is edit
 [params.article]
