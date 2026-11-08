@@ -23,6 +23,8 @@ authors = [
 {{< friends >}}
 <!-- 请将友链的添加到 /data/friends.yaml 中 -->
 
+---
+
 ## Bookmarks
 
 marxists
