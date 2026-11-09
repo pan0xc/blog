@@ -17,6 +17,7 @@ I am also a **FOSS enthusiast and developer**, contributing to the following pro
 - [bazaar](https://gitlab.gnome.org/World/bazaar)
 - [extension-manager](https://github.com/mjakeman/extension-manager)
 - [forgejo](https://codeberg.org/forgejo/forgejo)
+- [nixpkgs](https://github.com/NixOS/nixpkgs)
 - [soybean-admin](https://github.com/soybeanjs/soybean-admin)
 
 中国 / China
